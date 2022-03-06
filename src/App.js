@@ -1,6 +1,6 @@
 import React from "react";
 
-const urlRoot = "http://localhost:5000/";
+const urlRoot = "https://todolist-react-nodejs.herokuapp.com/";
 
 function App() {
   const [data, setData] = React.useState([]);
